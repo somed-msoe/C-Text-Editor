@@ -1,0 +1,3 @@
+{
+    "terminal.integrated.commandsToSkipShell": ["-workbench.action.quickOpenView"]
+}
